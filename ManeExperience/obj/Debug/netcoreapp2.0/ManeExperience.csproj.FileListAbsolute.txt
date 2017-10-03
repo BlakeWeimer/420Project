@@ -1,0 +1,10 @@
+c:\Users\blake\ManeExperience\bin\Debug\netcoreapp2.0\ManeExperience.deps.json
+c:\Users\blake\ManeExperience\bin\Debug\netcoreapp2.0\ManeExperience.runtimeconfig.json
+c:\Users\blake\ManeExperience\bin\Debug\netcoreapp2.0\ManeExperience.runtimeconfig.dev.json
+c:\Users\blake\ManeExperience\bin\Debug\netcoreapp2.0\ManeExperience.dll
+c:\Users\blake\ManeExperience\bin\Debug\netcoreapp2.0\ManeExperience.pdb
+c:\Users\blake\ManeExperience\obj\Debug\netcoreapp2.0\ManeExperience.csproj.CoreCompileInputs.cache
+c:\Users\blake\ManeExperience\obj\Debug\netcoreapp2.0\ManeExperience.AssemblyInfoInputs.cache
+c:\Users\blake\ManeExperience\obj\Debug\netcoreapp2.0\ManeExperience.AssemblyInfo.cs
+c:\Users\blake\ManeExperience\obj\Debug\netcoreapp2.0\ManeExperience.dll
+c:\Users\blake\ManeExperience\obj\Debug\netcoreapp2.0\ManeExperience.pdb
